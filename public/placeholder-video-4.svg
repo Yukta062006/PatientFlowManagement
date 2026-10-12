@@ -1,0 +1,9 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#E7EEDB"/>
+  <text x="200" y="150" text-anchor="middle" fill="#6B766D" font-family="sans-serif" font-size="16">Patient Care Video</text>
+  <circle cx="200" cy="150" r="40" fill="#789578" opacity="0.2"/>
+  <polygon points="180,140 220,150 180,160" fill="white"/>
+  <path d="M150 100 Q200 140 250 100" stroke="#315B46" stroke-width="2" fill="none"/>
+  <circle cx="150" cy="100" r="10" fill="#F6F5EF"/>
+  <circle cx="250" cy="100" r="10" fill="#F6F5EF"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#E7EEDB"/>
+  <text x="200" y="150" text-anchor="middle" fill="#6B766D" font-family="sans-serif" font-size="16">Surgery Video Placeholder</text>
+  <circle cx="200" cy="150" r="40" fill="#789578" opacity="0.2"/>
+  <polygon points="180,140 220,150 180,160" fill="white"/>
+  <rect x="160" y="100" width="80" height="10" rx="5" fill="#315B46" opacity="0.5"/>
+  <rect x="140" y="180" width="120" height="6" rx="3" fill="#315B46" opacity="0.5"/>
+</svg>

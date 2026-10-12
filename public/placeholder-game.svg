@@ -1,0 +1,9 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#E7EEDB"/>
+  <text x="150" y="100" text-anchor="middle" fill="#6B766D" font-family="sans-serif" font-size="14">Health Game Placeholder</text>
+  <path d="M50 50 L250 50 L250 150 L50 150 Z" fill="none" stroke="#C7D2BB" stroke-width="2"/>
+  <rect x="100" y="70" width="100" height="60" rx="10" fill="#789578" opacity="0.2"/>
+  <circle cx="125" cy="95" r="5" fill="white"/>
+  <circle cx="175" cy="95" r="5" fill="white"/>
+  <text x="150" y="100" text-anchor="middle" fill="#315B46" font-family="sans-serif" font-size="24" font-weight="bold" dominant-baseline="middle">G</text>
+</svg>
